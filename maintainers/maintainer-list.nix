@@ -1316,6 +1316,12 @@
     github = "bmilanov";
     githubId = 30090366;
   };
+  bmwalters = {
+    name = "Bradley Walters";
+    email = "oss@walters.app";
+    github = "bmwalters";
+    githubId = 4380777;
+  };
   bobakker = {
     email = "bobakk3r@gmail.com";
     github = "bobakker";
