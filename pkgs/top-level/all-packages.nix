@@ -6180,6 +6180,8 @@ in
 
   minidlna = callPackage ../tools/networking/minidlna { };
 
+  minipro = callPackage ../tools/misc/minipro { };
+
   minisign = callPackage ../tools/security/minisign { };
 
   ministat = callPackage ../tools/misc/ministat { };
