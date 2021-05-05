@@ -27,4 +27,4 @@ stdenv.mkDerivation rec {
     maintainers = [ maintainers.bmwalters ];
     platforms = platforms.all;
   };
-};
+}
