@@ -2438,6 +2438,8 @@ with pkgs;
 
   keystone = callPackage ../development/libraries/keystone { };
 
+  carthage = callPackage ../development/mobile/carthage { };
+
   casync = callPackage ../applications/networking/sync/casync {
     sphinx = python3Packages.sphinx;
   };
